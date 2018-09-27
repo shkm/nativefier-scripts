@@ -1,0 +1,2 @@
+#!/bin/sh
+nativefier --single-instance --name "Asana" --internal-urls ".*(asana|google)\.com.*" https://app.asana.com/
