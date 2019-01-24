@@ -1,0 +1,2 @@
+#/bin/sh
+nativefier --name "Nest" https://home.nest.com
