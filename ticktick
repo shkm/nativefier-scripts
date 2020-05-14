@@ -1,0 +1,2 @@
+#!/bin/sh
+nativefier --single-instance --name "TickTick" -i icons/ticktick.png https://ticktick.com/webapp
